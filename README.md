@@ -1,5 +1,5 @@
-## Hi there
-## I'am Bartek
+# Hi there
+# I'am Bartek
 
 <!--
 **BartekClk/BartekClk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
