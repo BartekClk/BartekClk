@@ -38,7 +38,7 @@ if __name__ == '__main__':
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Ardunio" width="50" height="50"/>&nbsp;&nbsp;
-  <h6>&nbsp;&nbsp;&nbsp;&nbsp;<i>Yea i know, HTML isn't technically a programing language</i></h6>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;<i>Yea i know, HTML isn't technically a programing language</i></p>
   
   <h3>&nbsp;&nbsp;Operating systems:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
@@ -67,7 +67,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![BartekClk Activity Graph](https://activity-graph.herokuapp.com/graph?username=BartekClk&custom_title=Bartek%20Celak%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=3B4837&point=c58545)](https://github.com/BartekClk)
+[![BartekClk Activity Graph](https://activity-graph.herokuapp.com/graph?username=BartekClk&custom_title=Bartek%20Celak%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/BartekClk)
 
 ------
 
