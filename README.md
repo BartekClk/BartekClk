@@ -1,5 +1,5 @@
-<h1 style="width:100%; text-align:middle;">
-  <b>Bartek Celak</b>
+<h1 style="width:100%;">
+  <b style="width:100%; text-align:center">Bartek Celak</b>
 </h1>
 
 Hi! I'm Bartek Celak, a student from Poland. I'am now trying to get into <a href="https://pl.wikipedia.org/wiki/Sii_Polska">SII</a>, 
