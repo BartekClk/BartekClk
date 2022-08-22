@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 style="width:100%; text-align:center;">
   <b>Bartek Celak</b>
 </h1>
 
@@ -8,8 +8,9 @@ and learning programming while making some project that i add here.
 <br>
 
 <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+<div>
+  <h2>Languages and technologies that i know and still learn</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
@@ -23,7 +24,7 @@ class BartekCelak():
     self.username = "BartekClk";
     self.location = "Kraków, Poland";
     self.twitter = "@BartekClk";
-    self.web = "<a href="https://bartekcelak.me">https://bartekcelak.me</a>";
+    self.web = "https://bartekcelak.me";
   
   def __str__(self):
     return self.name
