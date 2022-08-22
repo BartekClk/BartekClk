@@ -26,7 +26,8 @@ if __name__ == '__main__':
 
 <p>
 <div>
-  <h2>Languages and technologies that i know and still learn</h2>
+  <h2>Things that i know</h2>
+  <h3 style="padding-right:10%">Programing languages</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
