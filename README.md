@@ -1,4 +1,4 @@
-<h1 style="width:100%; text-align:center;">
+<h1 style="width:100%; text-align:middle;">
   <b>Bartek Celak</b>
 </h1>
 
