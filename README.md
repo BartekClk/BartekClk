@@ -55,7 +55,8 @@ if __name__ == '__main__':
 <br>
 </p>
 
-## My Statistics
+
+<h2 align="center">My statistics</h2>
 
 <br/>
 <p align="left">
