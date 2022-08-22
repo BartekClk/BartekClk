@@ -67,7 +67,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![BartekClk Activity Graph](https://activity-graph.herokuapp.com/graph?username=BartekClk&custom_title=Bartek%20Celak%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/BartekClk)
+[![BartekClk Activity Graph](https://activity-graph.herokuapp.com/graph?username=BartekClk&custom_title=Bartek%20Celak%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=3B4837&point=c58545)](https://github.com/BartekClk)
 
 ------
 
