@@ -36,8 +36,7 @@ if __name__ == '__main__':
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Ardunio" width="50" height="50"/>&nbsp;&nbsp;
-  <br>
-  <h6><i>Yea i know, HTML isn't technically a programing language</i></h6>
+  &nbsp;&nbsp;&nbsp;&nbsp;<h6><i>Yea i know, HTML isn't technically a programing language</i></h6>
 </div>
 </p>
 
