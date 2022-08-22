@@ -26,7 +26,7 @@ if __name__ == '__main__':
 
 <p>
 <br>
-<div>
+<div align="center">
   <h2 align="center">Things that i know</h2>
   
   <h3>&nbsp;&nbsp;Programing languages:</h3>
