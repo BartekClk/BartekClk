@@ -52,6 +52,7 @@ if __name__ == '__main__':
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="gimp" alt="gimp" width="50" height="50"/>&nbsp;&nbsp;
   
 </div>
+<br>
 </p>
 
 ## My Statistics
