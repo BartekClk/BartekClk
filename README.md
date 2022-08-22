@@ -25,8 +25,9 @@ if __name__ == '__main__':
 ```
 
 <p>
+<br>
 <div>
-  <h2>Things that i know</h2>
+  <h2 align="center">Things that i know</h2>
   
   <h3>&nbsp;&nbsp;Programing languages:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
