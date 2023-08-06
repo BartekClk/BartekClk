@@ -3,8 +3,7 @@
   <b>Bartek Celak</b>
 </h1>
 
-Hi! I'm Bartek Celak, a student from Poland. I'am now trying to get into <a href="https://pl.wikipedia.org/wiki/Sii_Polska">SII</a>, 
-and learning programming while making some project that i add here.
+Hi! I'm Bartek Celak, a young programmer and student from Poland.
 
 <br>
 
